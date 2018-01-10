@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Page Title</title>
+		<meta charset="UTF-8">
+		<title>COMP4711-Lab1</title>
 	</head>
 	<body>
 
-		<h1>This is a Heading</h1>
-		<p>This is a paragraph.</p>
+		<?php
+		echo "Hello out there ... I live";
+		?>
 
 	</body>
 </html>
